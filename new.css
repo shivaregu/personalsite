@@ -1,0 +1,87 @@
+.cla1{
+    display: inline;
+}
+h2{
+    margin-left: 50px;
+    margin-right: 900px;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    
+}
+h4{
+    margin: 10px;
+}
+a:hover{
+    text-decoration-line: underline;
+    
+}
+.cla2{
+    margin-bottom: 50px;
+    margin-top: 20px;
+}
+.text1 img{
+    width: 100%;
+    height: 700px;
+    margin: 0;
+}
+.my{
+    font-size: 80px;
+    font-weight: 100;
+}
+.my1{
+    font-size: 40px;
+}
+body{
+    margin: 0;
+}
+.text2{
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    color: white;
+    padding: 10px;
+    text-align: center;
+
+}
+.text1{
+    position: relative;
+}
+.cla3{
+    font-size: 40px;
+    text-align: center;
+    margin: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.cla4 img{
+    width: 100%;
+    height: 700px;
+    margin: 0;
+
+}
+.cla4{
+    position: relative;
+
+}
+.cla5{
+    position: absolute;
+    top: 20%;
+    text-align: center;
+    left: 10%;
+
+}
+.cla8{
+    color: white;
+    margin: 40px;
+
+}
+.cla7 img{
+    height: 500px;
+}
+.cla9{
+    margin-left: 70px;
+    margin-bottom: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
